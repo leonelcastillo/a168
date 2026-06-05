@@ -17,14 +17,15 @@
         Martillo y cincel
     Promesa:
     Consultas:  Se necesita confirmar cuales son las duchas a utilizar
-    Observaciones:  Baño hab 1: 2 Juegos de duchas inteligentes CH 
-                    Baño hab 2:
-                    Baño hab 3:
-                    Baño hab 4:
+    Observaciones:  Baño hab 1: 2 Duchas inteligentes CH 
+                    Baño hab 2: Ducha dorada
+                    Baño hab 3: Ducha inteligente CH
+                    Baño hab 4: Ducha dorada
+                    Baño serv.: Ducha china antigua
 
 ## 2.  Actividad:  Cuarto de bomba
     Cantidad:   1  
-    Material:   
+    Material:   Ver ###Materiales solitcitados
     Equipo:     
         Maquina de termofusion
         Cortatubos
@@ -35,7 +36,7 @@
 
 ## 3.  Actividad:  Sistema de piscina
     Cantidad:   1
-    Material:   
+    Material:   Ver ###Materiales solitcitados
     Equipo:     
         Maquina de termofusion
         Cortatubos
@@ -88,7 +89,7 @@
     Consultas:
     Observaciones:
 
-### Materiales solicitados
+## Materiales solicitados
 
 Descripcion                 existencia/requeridos
 Adaptador macho 25mm PPR    1/2
