@@ -91,36 +91,36 @@
 
 ## Materiales solicitados
 
-Descripcion                 existencia/requeridos
-Adaptador macho 25mm PPR    1/2
-Adaptador hembra 25mm PPR   1/2
-Reduccion 50x20mm PPR       1/1
-Union universal 50mm        7/8
-Union universal 32mm        0/4
-Llave 1 1/2"                5/5
-Llave 1"                    3/3
-Adaptador macho 32mm        6/8
-Reduccion 50x32mm           0/3
-Reduccion 25x20mm           0/4
-Codo liso 90° 50mm          9/9
-Codo liso 90° 25mm          2/4
-Tee 50mm                    5/5
-Valvula check c/filtro 50mm 1/1
-Tubo 50mm                   2/2
-Permatex qt                 0/1
-Junta dress pvc             1/1
-Llave 3/4"                  1/1
-Adaptador 3/4" PVC          0/1
-Tee 25mm                    1/1
-Junta dress AF PVC 3/4"     0/1
-Adaptador macho AF PVC 3/4" 0/1
-Llave 3/4" PVC AF soldable  0/1
-Tuberia 1 1/2" AF PVC       0/2
-Adaptador macho 1 1/2 AF PVC    0/14
-Llave 1 1/2" PVC AF soldable    0/10
-Valvula check 1 1/2 PVC     0/2
-Union universal 1 1/2 PVC   0/9
-Codo 90° 1 1/2" PVC AF      0/35
-Tee 1 1/2" PVC AF           0/15
-Anillos de 1 1/2" PVC AF    0/4
-Adaptador macho 1 1/2" PVC AF   0/1
+    Descripcion                 existencia/requeridos
+    Adaptador macho 25mm PPR    1/2
+    Adaptador hembra 25mm PPR   1/2
+    Reduccion 50x20mm PPR       1/1
+    Union universal 50mm        7/8
+    Union universal 32mm        0/4
+    Llave 1 1/2"                5/5
+    Llave 1"                    3/3
+    Adaptador macho 32mm        6/8
+    Reduccion 50x32mm           0/3
+    Reduccion 25x20mm           0/4
+    Codo liso 90° 50mm          9/9
+    Codo liso 90° 25mm          2/4
+    Tee 50mm                    5/5
+    Valvula check c/filtro 50mm 1/1
+    Tubo 50mm                   2/2
+    Permatex qt                 0/1
+    Junta dress pvc             1/1
+    Llave 3/4"                  1/1
+    Adaptador 3/4" PVC          0/1
+    Tee 25mm                    1/1
+    Junta dress AF PVC 3/4"     0/1
+    Adaptador macho AF PVC 3/4" 0/1
+    Llave 3/4" PVC AF soldable  0/1
+    Tuberia 1 1/2" AF PVC       0/2
+    Adaptador macho 1 1/2 AF PVC    0/14
+    Llave 1 1/2" PVC AF soldable    0/10
+    Valvula check 1 1/2 PVC     0/2
+    Union universal 1 1/2 PVC   0/9
+    Codo 90° 1 1/2" PVC AF      0/35
+    Tee 1 1/2" PVC AF           0/15
+    Anillos de 1 1/2" PVC AF    0/4
+    Adaptador macho 1 1/2" PVC AF   0/1
